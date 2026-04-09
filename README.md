@@ -1,7 +1,11 @@
 # Wazuh SOC Project
 
 ## 📌 Overview
-This project demonstrates a Security Operations Center (SOC) setup using Wazuh for threat detection and monitoring.
+This project demonstrates the implementation of a Security Operations Center (SOC) monitoring environment using Wazuh, an open-source security platform for threat detection, log analysis, file integrity monitoring, and incident response.
+
+The objective of this project is to simulate real-world cyber attacks and analyze how a SOC analyst can detect, investigate, and respond to these threats using Wazuh and its integrated monitoring capabilities.
+
+The project includes attack simulations, alert generation, and dashboard visualization to understand how security events are monitored and managed in a SOC environment.
 
 ## 🔧 Features
 - File Integrity Monitoring (FIM)
